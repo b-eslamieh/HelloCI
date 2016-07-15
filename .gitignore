@@ -10,3 +10,4 @@
 /src/app/HelloCI.Web/bin
 /src/app/HelloCI.Web/HelloCI.Web.csproj.user
 /.vs/config
+/.vs/HelloCI/v14
