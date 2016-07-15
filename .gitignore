@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/test/HelloCI.Tests/obj/Debug
+/src/test/HelloCI.Tests/bin/Debug
+/src/app/HelloCI.Core/obj/Debug
+/src/app/HelloCI.Core/bin/Debug
+/src/app/HelloCI.Web/obj/Debug
+/src/app/HelloCI.Web/bin
+/src/app/HelloCI.Web/HelloCI.Web.csproj.user
+/.vs/config
