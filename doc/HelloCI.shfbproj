@@ -25,6 +25,7 @@
     <DisableCodeBlockComponent>False</DisableCodeBlockComponent>
     <CppCommentsFixup>False</CppCommentsFixup>
     <CleanIntermediates>True</CleanIntermediates>
+    <SHFBROOT>C:\Programs\MainDev\EWSoftware\Sandcastle Help File Builder</SHFBROOT>
     <DocumentationSources>
       <DocumentationSource sourceFile="..\bin\HelloCI.Core.dll" xmlns="" />
 <DocumentationSource sourceFile="..\bin\HelloCI.Core.XML" xmlns="" /></DocumentationSources>
