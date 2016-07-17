@@ -17,3 +17,4 @@
 /src/app/HelloCI.App/bin/Debug
 /bin
 /testbin
+/tools/NUnit/TestResult.xml
