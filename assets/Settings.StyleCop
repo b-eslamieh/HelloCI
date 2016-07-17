@@ -8,6 +8,13 @@
       <Value>Home-LLC</Value>
     </CollectionProperty>
   </GlobalSettings>
+  <Parsers>
+    <Parser ParserId="StyleCop.CSharp.CsParser">
+      <ParserSettings>
+        <BooleanProperty Name="AnalyzeDesignerFiles">False</BooleanProperty>
+      </ParserSettings>
+    </Parser>
+  </Parsers>
   <Analyzers>
     <Analyzer AnalyzerId="StyleCop.CSharp.OrderingRules">
       <Rules>
