@@ -17,3 +17,4 @@
 /testbin
 /tools/NUnit/TestResult.xml
 /src/app/**/StyleCop.Cache
+/Sandcastle.log
