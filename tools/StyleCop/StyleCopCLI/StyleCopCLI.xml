@@ -1,0 +1,4 @@
+<StyleCopViolations>
+  <Violation Section="Root.HelloCI.App.Program" LineNumber="9" Source="D:\GitHub\babaksoft\HelloCI\src\app\HelloCI.App\Program.cs" RuleNamespace="StyleCop.CSharp.MaintainabilityRules" Rule="AccessModifierMustBeDeclared" RuleId="SA1400">The class must have an access modifier.</Violation>
+  <Violation Section="Root.HelloCI.App.Program.Main%string[]" LineNumber="11" Source="D:\GitHub\babaksoft\HelloCI\src\app\HelloCI.App\Program.cs" RuleNamespace="StyleCop.CSharp.MaintainabilityRules" Rule="AccessModifierMustBeDeclared" RuleId="SA1400">The method must have an access modifier.</Violation>
+</StyleCopViolations>
