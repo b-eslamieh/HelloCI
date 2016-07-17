@@ -15,3 +15,5 @@
 /HelloCI.App/bin/Debug
 /src/app/HelloCI.App/obj/Debug
 /src/app/HelloCI.App/bin/Debug
+/bin
+/testbin
