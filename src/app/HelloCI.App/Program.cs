@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace HelloCI.App
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
             Console.WriteLine("Hello Continuous Integration!");
         }
